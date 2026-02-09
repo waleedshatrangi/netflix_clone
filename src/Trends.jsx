@@ -3,6 +3,11 @@ import trend1 from './assets/trend1.webp'
 import trend2 from './assets/trend2.webp'
 import trend3 from './assets/trend3.webp'
 import trend4 from './assets/trend4.webp'
+import trend5 from './assets/trend5.webp'
+import trend6 from './assets/trend6.webp'
+import trend7 from './assets/trend7.webp'
+import trend9 from './assets/trend9.webp'
+import trend10 from './assets/trend10.webp'
 
 function Trends() {
     const movies=[
@@ -25,27 +30,24 @@ function Trends() {
     },
         {
         "id":5,
-        "url":trend4
+        "url":trend9
     },
-        {
-        "id":6,
-        "url":trend4
-    },
+   
         {
         "id":7,
-        "url":trend4
+        "url":trend7
     },
         {
         "id":8,
-        "url":trend4
+        "url":trend5
     },
         {
         "id":9,
-        "url":trend4
+        "url":trend6
     },
       {
         "id":10,
-        "url":trend4
+        "url":trend10
     },
 ]
 return (
